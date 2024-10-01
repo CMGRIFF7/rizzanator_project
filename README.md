@@ -23,7 +23,7 @@ Rizzanator 3000 is an AI-powered assistant that provides real-time conversationa
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/yourusername/rizzanator_project.git
+   git clone https://github.com/CMGRIFF7/rizzanator_project.git
    ```
 
 2. Install Python dependencies:
